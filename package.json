@@ -1,0 +1,25 @@
+{
+  "name": "clase-node-express-1",
+  "version": "1.0.0",
+  "description": "Al finalizar esta clase, serás capaz de:",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reyeslim/clase-node-express-1.git"
+  },
+  "keywords": [],
+  "author": "Reyeslim",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Reyeslim/clase-node-express-1/issues"
+  },
+  "homepage": "https://github.com/Reyeslim/clase-node-express-1#readme",
+  "dependencies": {
+    "express": "5.2.1"
+  }
+}
